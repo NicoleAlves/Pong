@@ -1,0 +1,3 @@
+C:\Users\nicole.freitas\Desktop\WindowsGame1\WindowsGame1\WindowsGame1Content\obj\x86\Debug\WindowsGame1Content.contentprojResolveAssemblyReference.cache
+E:\Pong\WindowsGame1\WindowsGame1\WindowsGame1Content\obj\x86\Debug\WindowsGame1Content.contentprojResolveAssemblyReference.cache
+C:\Users\seeduc\Desktop\Pong\WindowsGame1\WindowsGame1\WindowsGame1Content\obj\x86\Debug\WindowsGame1Content.contentprojResolveAssemblyReference.cache
